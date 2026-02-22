@@ -160,9 +160,8 @@ API-First Product Thinking
 
 ---
 
-## 📊 GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alikhan09-glitch&show_icons=true&theme=default)
+## 📊 Development Focus
+Actively building production-grade SaaS systems and scalable backend architectures.
 
 ---
 
